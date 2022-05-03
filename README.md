@@ -1,7 +1,7 @@
 ### Hi there, I'm Vivek Shukla 👋
 
 
-## I'm a Developer!!
+## I'm a DevOps Engineer!!
 
 - 🌱 I'm currently working in [Agrahyah Technologies][website]!
 - 🌱 I’m currently learning everything 🤣
