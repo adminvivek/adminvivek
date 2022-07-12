@@ -1,4 +1,4 @@
-### Hi there, I'm Vivek Shukla 👋
+ag### Hi there, I'm Vivek Shukla 👋
 
 
 ## I'm a DevOps Engineer!!
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.agrahyah.com/wp-content/uploads/2018/09/at-logo.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://agrahyah.com/assets/img/agrahyah-logo.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
